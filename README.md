@@ -1,6 +1,6 @@
 # Balatcher
 
-So it's like a balatro patcher, clone this repo, run the main.py (no requirements) and then run build/BalatroMod.exe (all necessary DLLs and the license.txt are copied to build).
+So it's like an extremely simple balatro patcher, clone this repo, run the main.py (no requirements) and then run build/BalatroMod.exe (all necessary DLLs and the license.txt are copied to build).
 
 Only windows support. Probably never gonna update this unless a balatro update makes a breaking change. It also removes all connection to steam and saves in a different folder.
 
