@@ -1,6 +1,6 @@
 # Balatcher
 
-So it's like a balatro patcher, clone this repo, run the main.py (no requirements) and then run build/BalatroMod.exe.
+So it's like a balatro patcher, clone this repo, run the main.py (no requirements) and then run build/BalatroMod.exe (all necessary DLLs and the license.txt are copied to build).
 
 Only windows support. Probably never gonna update this unless a balatro update makes a breaking change.
 
@@ -16,3 +16,5 @@ end
 ```
 
 If you don't understand, just look at my example mod which removes pixel art from the shaders (overwriting them) and the UIElement.draw_pixelated_rect function.
+
+I really hope this is allowed because I'm not sharing any source code.
