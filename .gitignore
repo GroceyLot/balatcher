@@ -1,0 +1,12 @@
+# -----------------------------------
+# Binary archives
+*.zip
+
+# Windows executables
+*.exe
+
+# Build artifacts
+build/
+
+# Balatro patch folder
+balatro_patch/
