@@ -14,3 +14,5 @@ Game.dosomething = function(self, ...)
   return old(self, ...)
 end
 ```
+
+If you don't understand, just look at my example mod which removes pixel art from the shaders (overwriting them) and the UIElement.draw_pixelated_rect function.
